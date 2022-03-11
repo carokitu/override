@@ -1,0 +1,2 @@
+compile source with 
+$ shell gcc -fno-stack-protector -fpie /tmp/source.c -o /tmp/source
