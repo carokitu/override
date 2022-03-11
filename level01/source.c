@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-char *name;
+char name[256];
 
 int verify_user_pass(char *password) {
 	return strcmp(password, "admin");
